@@ -1,0 +1,23 @@
+# Generated output directories
+output/
+output_*/
+output_gs_baseline/
+output_optimized/
+output_mraf_m50/
+output_mraf_m60/
+
+# MATLAB generated data
+*.mat
+*.asv
+*.m~
+*.slxc
+*.mlappinstall
+
+# Stray test images
+16阶闪耀光栅.bmp
+闪耀光栅+贝塞尔+55多焦点.png
+untitled1.png
+
+# OS
+Thumbs.db
+.DS_Store
